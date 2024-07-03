@@ -1,0 +1,2 @@
+# DisasterEmergencyRescuePlatform
+ 基于SpringBoot Vue灾害应急救援平台
